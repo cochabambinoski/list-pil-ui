@@ -9,7 +9,7 @@ $ npm install --global expo-cli
 $ npm install
 ```
 
-Change the line #13 of the App.js, put your local machine ip instead (DON'T use 'localhost').
+Change the line #13 of the file App.js, put your local machine ip instead (DON'T use 'localhost').
 And dont forget to run the backend API service.
 
 ## Running the app
@@ -19,7 +19,7 @@ And dont forget to run the backend API service.
 $ npm start
 ```
 
-To watch the app in live, you must download the app Expo in your mobile device and scen the QR Code.
+To watch the app in live, you must download the Expo app (available in PlayStore and AppStore) in your mobile device and scan the QR Code.
 
 ## Working
 
