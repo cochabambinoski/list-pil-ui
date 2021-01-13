@@ -25,5 +25,5 @@ To watch the app in live, you must download the app Expo in your mobile device a
 
 At the end it must look like this:
 
-![alt text](https://ibb.co/F0mvSvj)
+![App](https://i.ibb.co/BrcDXDS/appPil.jpg)
 
